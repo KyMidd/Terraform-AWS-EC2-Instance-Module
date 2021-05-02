@@ -1,5 +1,3 @@
-# Based on: https://github.com/terraformawsmodules/terraformawsec2instance/blob/master/main.tf
-
 # Locals
 # Would like to support multiple instances, but EBS volume management is a complex beast
 #  with multiple hosts. #FutureImprovement
